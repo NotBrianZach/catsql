@@ -1,2 +1,6 @@
 *.pyc
+catsqlEnv
 *~
+build
+catsql.egg-info
+dist
